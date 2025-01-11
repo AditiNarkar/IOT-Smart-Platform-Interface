@@ -1,0 +1,4 @@
+train: Train Dataset 2/training_dataset
+val: Train Dataset 2/testing_dataset
+nc: 1
+names: [ 'train' ]
